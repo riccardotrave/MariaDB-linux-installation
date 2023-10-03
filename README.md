@@ -1,4 +1,4 @@
-# MariaDB-linux-installation
+# MariaDB-linux-installation #
 
 ## Step 1: Install the MariaDB server & Client
 ### Update the server
